@@ -1,0 +1,3 @@
+[submodule "CADfiles"]
+	path = CADfiles
+	url = https://github.com/Fredriktoeien/CADfiles.git
